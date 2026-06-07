@@ -7,6 +7,7 @@
 I build GenAI systems, cloud data pipelines, and analytics products that turn messy information into reliable decisions.
 
 [![Email](https://img.shields.io/badge/Email-henryfan0418%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:henryfan0418@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Huaiyuan_Fan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/huaiyuan-fan-521096195/)
 [![GitHub](https://img.shields.io/badge/GitHub-henryfan000418-181717?style=for-the-badge&logo=github)](https://github.com/henryfan000418)
 [![Profile views](https://komarev.com/ghpvc/?username=henryfan000418&style=for-the-badge&color=0e75b6)](https://github.com/henryfan000418)
 
@@ -78,20 +79,15 @@ ML/NLP projects     BERT sentiment analysis, BERTopic, NER, CNNs, ensemble learn
 - Compared linear regression, random forest, and gradient boosting models
 - Achieved an R2 score of 0.95
 
-## GitHub Stats
+## Snake Game
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=henryfan000418&show_icons=true&theme=tokyonight&hide_border=true" alt="Henry's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryfan000418&layout=compact&theme=tokyonight&hide_border=true" alt="Henry's top languages" />
-
-</div>
-
-## Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=henryfan000418&theme=tokyo-night&hide_border=true&area=true" alt="Henry's GitHub activity graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henryfan000418/henryfan000418/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henryfan000418/henryfan000418/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/henryfan000418/henryfan000418/output/github-snake.svg" />
+</picture>
 
 </div>
 
