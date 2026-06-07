@@ -21,6 +21,7 @@ jobs:
       - name: Generate current-year snake SVG
         run: node .github/scripts/generate-year-snake.js
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USER_NAME: henryfan000418
 
       - name: Publish snake SVG
